@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Rico!
-- 👀 I’m interested in Software Engineering stuff
-- 🌱 I’m currently learning ExpressJS, VueJS and ... Japanese xd
+# 👋 Rico's here, nice to meet you!
 
 <!---
 ricogann/ricogann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
